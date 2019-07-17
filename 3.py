@@ -1,6 +1,6 @@
-a=str(input())
-b=['a','e','i','o','u','A','E','I','O','U']
-if b in a:
+k=str(input())
+l=['a','e','i','o','u','A','E','I','O','U']
+if k in l:
   print("Vowels")
 else:
   print("consonants")
