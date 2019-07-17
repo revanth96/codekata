@@ -1,4 +1,4 @@
-a=int(int())
+a=int(input())
 if(a%4==0):
     print("leap")
 else:
