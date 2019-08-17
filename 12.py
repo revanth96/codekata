@@ -1,6 +1,6 @@
-list=input('enter a number:')
+list=input()
 
 if (list==list[::-1]):
-    print ("The number is palindrome")
+    print ("yes")
 else:
-   print("The number is not palindrome")
+   print("no")
